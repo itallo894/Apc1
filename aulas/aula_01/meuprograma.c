@@ -19,7 +19,7 @@ int main(){
     printf("Aprovado\n");
     
   }   else{
-    printf("Reprovado\n");
+    printf("Partiu p3\n");
   }
 
     
